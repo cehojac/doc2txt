@@ -1,0 +1,6 @@
+{
+	"autoload":
+	{
+		"classmap": ["doc2txt.class.php"]
+	}
+}
