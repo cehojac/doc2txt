@@ -1,4 +1,6 @@
 {
+	"name":"cehojac/doc2txt",
+    "version":"1.0",
 	"autoload":
 	{
 		"classmap": ["doc2txt.class.php"]
